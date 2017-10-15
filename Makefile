@@ -1,13 +1,13 @@
 # makefile to produce 
 
 # variables
-CC = gcc
-OBJCFLAGS = -Wall -g -c
-BINCFLAGS = -Wall -o
+CC = 
+OBJCFLAGS = 
+BINCFLAGS = 
 
 # files
-SRC = *.c
-OBJ = *.o
+SRC = 
+OBJ = 
 BIN = 
 
 # headers
